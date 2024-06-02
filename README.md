@@ -41,7 +41,7 @@ Before you can run the application, make sure you have the following installed:
 5. Set the Groq API Key
 Set the Groq API key in your environment variables. You can do this by creating a .env file in the root directory of the project and adding the following line:
 
-`GROQ_API_KEY=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`
+`GROQ_API_KEY=xxxxxxxxxxxxxxxxxxxxxxxxxxxx`
 
 Alternatively, you can export the environment variable directly in your terminal session:
   On Windows:
